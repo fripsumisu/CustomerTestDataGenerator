@@ -1,0 +1,8 @@
+Road
+Street
+Avenue
+Close
+Boulevard
+Crescent
+Way
+Parade
